@@ -53,6 +53,8 @@ Their benefits include:
 - Clarity: They simplify complex system interactions into an easy-to-understand visual representation.
 - Stakeholder Communication: They serve as a great tool for discussing and validating requirements with non-technical stakeholders.
 - Scope Definition: They help in defining the boundaries of the system and identifying all necessary functionalities.
+  
+   ![booking management system use case](alx-booking-uc.png)
 
 
 ## Acceptance Criteria
